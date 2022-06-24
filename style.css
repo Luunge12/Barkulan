@@ -12,3 +12,43 @@
 
 
 .pad {padding-left: 30px;}
+
+
+
+.top {
+       
+       padding-top: 60px;
+       text-align: center;
+       margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-right: 160px;
+    overflow: hidden;
+    background-color: #361406;
+  }
+  
+  li {
+    float:right;
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:black;
+  }
+
+
+
+  
